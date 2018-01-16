@@ -10,3 +10,6 @@ Creating events by using Google Calendar API.
 
 # Requirements
 Python 3 (Author uses Python 3.6.2)
+
+# Refferance
+[Qiita:Author's post](https://qiita.com/deatiger/items/fbe7416f5571344060ea)
